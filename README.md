@@ -6,8 +6,11 @@ Estou explorando o mundo da programação e tecnologia
 
 ## Minhas Habilidades:
 
-### Desenvolvimento web:
-[![Desenvolvimento Web](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs)](https://skillicons.dev)
+### Front-end:
+[![Desenvolvimento Web](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev)
 
-### Aprendendo: 
-[![Aprendendo](https://skillicons.dev/icons?i=c,cpp,neovim)](https://skillicons.dev)
+### Back-end:
+[![Desenvolvimento Web](https://skillicons.dev/icons?i=nodejs,express,c)](https://skillicons.dev)
+
+### Produtividade:
+[![Aprendendo](https://skillicons.dev/icons?i=git,neovim)](https://skillicons.dev)
