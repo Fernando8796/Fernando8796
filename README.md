@@ -11,6 +11,3 @@ Estou explorando o mundo da programação e tecnologia
 
 ### Back-end:
 [![Desenvolvimento Web](https://skillicons.dev/icons?i=nodejs,express,c)](https://skillicons.dev)
-
-### Produtividade:
-[![Aprendendo](https://skillicons.dev/icons?i=git,neovim)](https://skillicons.dev)
