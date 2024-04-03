@@ -4,6 +4,8 @@ Meu nome é José Fernando, sou um aluno do 2° ano do ensino médio cursando Re
 Estou explorando o mundo da programação e tecnologia
 
 
+![Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=Fernando8796&hide=stars&theme=dracula)
+
 ## Minhas Habilidades:
 
 ### Front-end:
