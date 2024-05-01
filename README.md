@@ -1,15 +1,17 @@
 ## 👋 Olá
 
-Meu nome é José Fernando, sou um aluno do 2° ano do ensino médio cursando Redes de Computadores.
-Estou explorando o mundo da programação e tecnologia
+Meu nome é José Fernando, amante da programação e tecnologia, estou fazendo o ensino médio e cursando Redes de computadores
 
 ## 🎖️ Minhas Habilidades:
 
-### Front-end:
-[![Desenvolvimento Web](https://skillicons.dev/icons?i=html,css,js,ts,react)](https://skillicons.dev)
+### Atualmente aprendendo:
+[![Aprendendo](https://skillicons.dev/icons?i=androidstudio,java)](https://skillicons.dev)
 
-### Back-end:
-[![Desenvolvimento Web](https://skillicons.dev/icons?i=nodejs,express,c)](https://skillicons.dev)
+### Linguagens:
+[![Aprendendo](https://skillicons.dev/icons?i=lua,js,python,c,cpp,java)](https://skillicons.dev)
+
+### Desenvolvimento web:
+[![Desenvolvimento Web](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express)](https://skillicons.dev)
 
 ## 📊 Github Status:
 
