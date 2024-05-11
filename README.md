@@ -5,10 +5,10 @@ Meu nome é José Fernando, amante da programação e tecnologia, estou fazendo 
 ## 🎖️ Minhas Habilidades:
 
 ### Atualmente aprendendo:
-[![Aprendendo](https://skillicons.dev/icons?i=androidstudio,java)](https://skillicons.dev)
+[![Aprendendo](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
 
 ### Linguagens:
-[![Aprendendo](https://skillicons.dev/icons?i=lua,js,python,c,cpp,java)](https://skillicons.dev)
+[![Linguagens](https://skillicons.dev/icons?i=lua,js,python,c,cpp,java)](https://skillicons.dev)
 
 ### Desenvolvimento web:
 [![Desenvolvimento Web](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express)](https://skillicons.dev)
