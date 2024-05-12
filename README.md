@@ -14,7 +14,7 @@
 ### 🖥 Linguagens:
 [![Linguagens](https://skillicons.dev/icons?i=lua,js,python,java,c)](https://skillicons.dev)
 
-### Desenvolvimento web:
+### 🌐 Desenvolvimento web:
 [![Desenvolvimento Web](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express)](https://skillicons.dev)
 
 
