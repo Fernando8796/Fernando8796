@@ -1,6 +1,6 @@
 ## 👋 Olá
 
-<p>Meu nome é José Fernando, tenho 16 anos, amante da programação e tecnologia, estou fazendo o ensino médio e cursando Redes de computadores</p>
+<p>Meu nome é José Fernando, tenho 16 anos, sou amante da programação e tecnologia, comecei na programação no início de 2023 com o objetivo de criar jogos, minha primeira linguagem de programação foi lua, onde criei scripts simples, mas que me fizeram me apaixonar pelo mundo da programação, hoje eu exploro várias áreas como front-end, back-end, baixo-nível, programação de sistemas embarcados, desenvolvimento mobile, segurança da informação, redes de computadores e etc. Eu sempre dou o melhor que posso e atualmente estou tentando montar meu portfólio.</p>
 
 ## 🎖️ Minhas Habilidades:
 
@@ -11,18 +11,13 @@
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 </div>
 
-### 🖥 Tecnologias e Ferramentas:
-
-<div>
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" />
-</div>
-<!--
-[![Linguagens](https://skillicons.dev/icons?i=lua,js,python,c,cpp,java)](https://skillicons.dev)
--->
+### 🖥 Linguagens:
+[![Linguagens](https://skillicons.dev/icons?i=lua,js,python,java,c)](https://skillicons.dev)
 
 ### Desenvolvimento web:
 [![Desenvolvimento Web](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express)](https://skillicons.dev)
+
+
 
 ## 📊 Github Status:
 
