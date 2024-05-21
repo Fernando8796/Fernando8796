@@ -6,14 +6,12 @@
 ### 📚 Atualmente aprendendo
 
 <div>
-  <img title="Android" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
-  <img title="React Native" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img title="C++" width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 </div>
 <br/>
 
 <p>Eu tenho muita curiosidade, então fui fuçando várias áreas como front-end, back-end, baixo-nível, programação de sistemas embarcados, segurança da informação,
-  redes de computadores e etc. Hoje estou com foco em desenvolvimento web e de aplicativos mobile focando em javascript e frameworks como React e React Native, eu sempre
-  dou o melhor que posso e atualmente estou tentando montar meu portfólio.</p>
+  redes de computadores e etc. Eu sempre dou o melhor que posso e atualmente estou tentando montar meu portfólio.</p>
 
 ### 🖥 Tecnologias que utilizo no meu dia a dia:
 
