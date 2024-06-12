@@ -10,13 +10,26 @@
 <p>Exploro várias áreas por pura curiosidade e amar pelo saber, já estudei sobre: front-end, back-end, programação de sistemas embarcados, redes de computadores.
   Atualmente estou estudando baixo nível e segurança da informação.</p>
 
-### 🖥 Linguagens, tecnologias e ferramentas:
+## 🖥 Habilidades:
 
-![Front-end](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,jquery,ts,bootstrap,sass,react)
+* ### Desenvolvimento web
+  * #### Front-End
+    
+    ![Front-end](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,jquery,ts,bootstrap,sass,react)
 
-![Back-end](https://go-skill-icons.vercel.app/api/icons?i=nodejs,npm,express)
+  * #### Back-End
 
-![Back-end](https://go-skill-icons.vercel.app/api/icons?i=vscode,git,github,linux)
+    ![Back-end](https://go-skill-icons.vercel.app/api/icons?i=nodejs,npm,express)
+
+* ### Baixo nível
+
+  ![Linguagens-low-level](https://go-skill-icons.vercel.app/api/icons?i=c,cpp)
+
+  * Bases numéricas: binário e hexadecimal
+
+* ### Ferramentas
+  
+  ![Ferramentas](https://go-skill-icons.vercel.app/api/icons?i=vscode,git,github,linux)
 
 ## 📊 Github Status:
 
