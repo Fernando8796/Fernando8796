@@ -18,3 +18,10 @@ Se você tem interesse em desenvolvimento web, eletrônica, segurança da inform
 
 ---
 📫 **Entre em contato:** jf8065572@gmail.com
+
+
+<div align="center">
+  <a href="https://github.com/Fernando8796">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Fernando8796&hide=stars&show_icons=true&theme=react"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando8796&layout=compact&langs_count=7&theme=react"/>
+</div>
