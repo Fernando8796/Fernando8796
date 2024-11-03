@@ -12,9 +12,7 @@ Tenho 16 anos e sou um amante da programação e da tecnologia. Minha jornada co
 
 ## O Que Eu Estou Fazendo Atualmente 🧠
 
-Atualmente, estou focado em estudar **baixo nível** e **segurança da informação**, enquanto continuo explorando novas tecnologias e aplicando meus conhecimentos em projetos desafiadores. Estou comprometido com o aprendizado contínuo e com a exploração de novas fronteiras tecnológicas, sempre em busca de novos conhecimentos.
-
-Se você tem interesse em desenvolvimento web, eletrônica, segurança da informação, ou apenas ama o mundo da tecnologia tanto quanto eu, sinta-se à vontade para trocar ideias comigo! 😊
+Atualmente, estou focado em estudar **machine learning**, continuo explorando novas tecnologias e aplicando meus conhecimentos em projetos desafiadores. Estou comprometido com o aprendizado contínuo e estou sempre aprendendo coisas novas 😊.
 
 ---
 📫 **Entre em contato:** jf8065572@gmail.com
