@@ -1,20 +1,21 @@
 # Olá! Eu sou José Fernando 👋
 
-Tenho 16 anos e sou um amante da programação e da tecnologia. Minha jornada começou no início de 2023, com o objetivo de criar jogos. Minha primeira linguagem de programação foi **Lua**, onde criei scripts simples que me fizeram apaixonar pelo mundo da programação. Desde então, venho explorando várias áreas por pura curiosidade e pelo amor ao conhecimento.
+🎓 Estudante do ensino médio, cursando Redes de Computadores. Sou apaixonado por tecnologia, sistemas embarcados e desenvolvimento de baixo nível.
 
-## Habilidades Técnicas 🚀
+💻 Tenho experiência com diversas linguagens, incluindo C, C++, Java, JavaScript, Python, Lua e estou sempre explorando novas possibilidades.
 
-- **Desenvolvimento Web**: Experiência com **HTML**, **CSS** e **JavaScript**, além de trabalhar com frameworks como **React** e **React Native** para criar aplicações completas, tanto no front-end quanto no back-end.
-- **Eletrônica e Sistemas Embarcados**: Exploro circuitos, sensores e microcontroladores como **Arduino** e **ESP32**, aplicando esses conhecimentos em projetos pessoais, como a construção de um console de jogos.
-- **Linguagens de Programação**: Proficiência em **C**, **C++**, **Java**, **Python** e **Lua**, com aplicações em desenvolvimento de jogos, aplicações de desktop e scripts para automação.
-- **Segurança da Informação**: Atualmente, estou estudando áreas como testes de invasão, análise de vulnerabilidades e criptografia.
-- **Programação de Baixo Nível**: Estou aprendendo mais sobre desenvolvimento de drivers e sistemas operacionais, buscando entender melhor o funcionamento do hardware e software no nível mais profundo.
+🚀 Meus principais interesses envolvem:
 
-## O Que Eu Estou Fazendo Atualmente 🧠
+- Desenvolvimento Web
+- Arquitetura de computadores e emuladores, como o 6502
+- Programação de microcontroladores(e microprocessadores) como ESP32, Arduino e Raspberry PI
+- Eletrônica
+- Low-Level programming
 
-Atualmente, estou focado em estudar **machine learning**, continuo explorando novas tecnologias e aplicando meus conhecimentos em projetos desafiadores. Estou comprometido com o aprendizado contínuo e estou sempre aprendendo coisas novas 😊.
+🛠️ Projetos em andamento:
+- Meu próprio processador de 8 bits com arquitetura personalizada
+- Motor de jogos(engine) usando SDL e OpenGL
 
----
 📫 **Entre em contato:** jf8065572@gmail.com
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
