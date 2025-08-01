@@ -1,6 +1,6 @@
 # Olá! Eu sou José Fernando 👋
 
-🎓 Estudante do ensino médio, cursando Redes de Computadores. Sou apaixonado por tecnologia, sistemas embarcados e desenvolvimento de baixo nível.
+🎓 Estudante do ensino médio, cursando Redes de Computadores. Sou apaixonado por tecnologia, low-level, IA, segurança, redes, desenvolvimento web e eletrônica.
 
 💻 Tenho experiência com diversas linguagens, incluindo C, C++, Java, JavaScript, Python, Lua e estou sempre explorando novas possibilidades.
 
