@@ -6,13 +6,12 @@
 
 🚀 Meus principais interesses envolvem:
 
+- Redes de computadores
 - Desenvolvimento Web
 - Segurança da informação
-- Inteligência Artificial
-- Arquitetura de computadores e emuladores, como o 6502
-- Programação de microcontroladores(e microprocessadores) como ESP32, Arduino e Raspberry PI
+- Inteligência artificial
+- Arquitetura de computadores, programação low-level(C e Assembly) e embarcados
 - Eletrônica
-- Low-Level programming
 
 🛠️ Projetos em andamento:
 - Meu próprio processador de 8 bits com arquitetura personalizada
