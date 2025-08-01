@@ -7,6 +7,8 @@
 🚀 Meus principais interesses envolvem:
 
 - Desenvolvimento Web
+- Segurança da informação
+- Inteligência Artificial
 - Arquitetura de computadores e emuladores, como o 6502
 - Programação de microcontroladores(e microprocessadores) como ESP32, Arduino e Raspberry PI
 - Eletrônica
